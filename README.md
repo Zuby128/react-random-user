@@ -1,1 +1,1 @@
-# react-random-user
+![Project 003 Snapshot](random-user.gif)
